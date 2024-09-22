@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador de Software Full-Stack | Colombia<br><br>Desarrollador de software colombiano con 3 años de experiencia creando soluciones web innovadoras. Apasionado por el desarrollo web y la programación, con un sólido conocimiento en React, Node.js, MongoDB y Python. He trabajado en diversos proyectos, desde la creación de aplicaciones de comercio electrónico hasta el desarrollo de paneles de control personalizados. Soy un autodidacta constante y disfruto aprendiendo nuevas tecnologías.<br><br>Habilidades: React, Node.js, Django, Python, HTML, CSS, JavaScript, Git, metodologías ágiles, diseño de bases de datos.<br><br><br>Portafolio: [Enlace a tu portafolio]
+Desarrollador de Software Full-Stack | Colombia<br><br>Desarrollador de software colombiano con 3 años de experiencia creando soluciones web innovadoras. Apasionado por el desarrollo web y la programación, con un sólido conocimiento en React, Node.js, MongoDB y Python. He trabajado en diversos proyectos, desde la creación de aplicaciones de comercio electrónico hasta el desarrollo de paneles de control personalizados. Soy un autodidacta constante y disfruto aprendiendo nuevas tecnologías.<br><br>Habilidades: React, Node.js, Django, Python, HTML, CSS, JavaScript, Git, metodologías ágiles, diseño de bases de datos.<br><br><br>
 
 
 ## 🌐 Socials:
